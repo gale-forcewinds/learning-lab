@@ -17,8 +17,8 @@ Goal: Build real-world operational skills for remote IT roles.
 
 ## Structure
 
-- daily-log.md — Short daily entries
-- commands.md — Useful commands reference
-- troubleshooting.md — Problems and fixes
-- scripts/ — Small automation snippets
-- concepts.md — Key technical notes
+- daily-log.md: Short daily entries
+- commands.md: Useful commands reference
+- troubleshooting.md: Problems and fixes
+- scripts/: Small automation snippets
+- concepts.md: Key technical notes
