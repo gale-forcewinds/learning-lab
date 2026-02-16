@@ -13,3 +13,6 @@ Permissions control access for user, group, others.
 
 Difficulty:
 Easy
+
+Real Use Case:
+Secure remote administration of servers.
